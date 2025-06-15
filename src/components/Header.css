@@ -1,0 +1,21 @@
+.text{
+    font-family: 'inter',sans-serif;
+    font-weight: 500;
+    color: white;
+    font-size: 14.46px;
+}
+
+.globe{
+    width: 24px;
+    height: 24px;
+}
+
+.header{
+    background-color: #F55A5A;
+    height: 55px;
+    display: flex;
+    margin: 0;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
